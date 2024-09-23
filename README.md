@@ -1,7 +1,7 @@
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Justine</h1>
 <h3 align="center">Computer Science Student | Content Creator</h3> 
 <p align="center">
-I am a <b>3rd year</b> computer science student at the <a href="https://science.ucalgary.ca/computer-science" target="blank"><b>University of Calgary</b></a>.<br> I am particularly interested in web development 💻, mobile development 📱, and AI/ML 🤖. Outside of school, I like to boulder 🧗, lift weights 🏋️, and make computer science content 🎬.
+I am a <b>3rd year</b> computer science student at the <a href="https://science.ucalgary.ca/computer-science" target="blank"><b>University of Calgary</b></a>.<br> I am particularly interested in full-stack web development 💻, mobile development 📱, and AI/ML 🤖. Outside of school, I like to boulder 🧗, lift weights 🏋️, and make computer science content 🎬.
 </b>
 </p>
 
