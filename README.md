@@ -24,5 +24,5 @@ I am a <b>3rd year</b> computer science student at the <a href="https://science.
 <h3><em>Currently learning...</em></h3>
 <a href="https://expressjs.com/" target="blank"><img alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></a>
 <a href="https://www.mongodb.com/" target="blank"><img alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-<a href="https://www.djangoproject.com/" target="blank"><img alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></a>
+<!-- <a href="https://www.djangoproject.com/" target="blank"><img alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /></a> -->
 </div>
