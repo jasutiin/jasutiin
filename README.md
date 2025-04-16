@@ -1,14 +1,14 @@
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Justine</h1>
-<h3 align="center">Computer Science Student | Content Creator</h3> 
-<p align="center">
-I am a <b>3rd year</b> computer science student at the <b>University of Calgary</b>.<br> I am particularly interested in full-stack web development 💻 and mobile development 📱.<br>Outside of school, I like to boulder 🧗, lift weights 🏋️, and make computer science content on <a href="https://www.youtube.com/@jasutiin." target="blank">YouTube</a> and <a href="https://www.tiktok.com/@jasutiin" target="blank">TikTok!</a> 🎬.
-</b>
-</p>
+## Hey! I'm Justine <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
----
+- <b>3rd year</b> computer science student at the <b>University of Calgary</b>
+- Interested in full-stack development 💻📱<br>
+- Diving into low-level programming and embedded systems<br>
+- I like to boulder 🧗, lift weights 🏋️, and make content on <a href="https://www.youtube.com/@jasutiin." target="blank">YouTube</a> and <a href="https://www.tiktok.com/@jasutiin" target="blank">TikTok!</a> 🎬.
+### Experience
+- Incoming IT Developer Intern, Summer '25
+- Software Team Member @ BMERIT, Present
 
-<div align="center">
-<h3>Languages and Tools</h3>
+### Languages and Tools
 <a href="https://www.javascript.com/" target="blank"><img alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="blank"><img alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img alt="C" width="30px" style="padding-right:10px;"
@@ -22,8 +22,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-orig
 <a href="https://supabase.com/" target="blank"><img alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /></a>
 <a href="https://www.mysql.com/" target="blank"><img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 <a href="https://www.mongodb.com/" target="blank"><img alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-</div>
-
-<!--<div align="center">
-<h3><em>Currently learning...</em></h3>
-</div>
