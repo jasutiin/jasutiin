@@ -3,7 +3,7 @@
 - <b>3rd year</b> computer science student at the <b>University of Calgary</b>
 - Interested in full-stack development 💻📱<br>
 - Diving into low-level programming and embedded systems<br>
-- I like to boulder 🧗, lift weights 🏋️, and make content on <a href="https://www.youtube.com/@jasutiin." target="blank">YouTube</a> and <a href="https://www.tiktok.com/@jasutiin" target="blank">TikTok!</a> 🎬.
+- I like to boulder 🧗, lift weights 🏋️, and make content on <a href="https://www.youtube.com/@jasutiin." target="blank">YouTube</a> and <a href="https://www.tiktok.com/@jasutiin" target="blank">TikTok!</a> 🎬
 ### Experience
 - Incoming IT Developer Intern, Summer '25
 - Software Team Member @ BMERIT, Present
