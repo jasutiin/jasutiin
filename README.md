@@ -22,6 +22,8 @@
 <a href="https://fastapi.tiangolo.com/" target="blank"><img alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></a>
 <a href="https://www.postgresql.org/" target="blank"><img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></a>
 <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="blank"><img alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></a>
+<a href="https://www.docker.com/" target="blank"><img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+<a href="https://kubernetes.io/" target="blank"><img alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" /></a>
 <!-- <a href="https://supabase.com/" target="blank"><img alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" /></a> -->
 <!-- <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img alt="C" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
